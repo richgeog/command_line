@@ -1,0 +1,5 @@
+The command 'grep' in shell is a function that allows you to search inside files for a particular word that is given.
+
+An example of how to use 'grep':
+
+$ grep football file_name
