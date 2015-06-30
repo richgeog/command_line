@@ -1,0 +1,12 @@
+The 'wc' command can be used in the shell to count words in a file.
+
+You can append wc with a few extra letters and these will count different things.
+
+-l will count the amount of lines in a file
+-c will count the size of the file in bytes
+-w will count the amount of words in the file
+-m will count the amount of characters in the file
+
+an example of how to use 'wc' is:
+
+$ wc -l file_name
