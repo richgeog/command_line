@@ -1,0 +1,5 @@
+The mv command in shell allows you to move files within terminal to different directories with relaitve ease.
+
+An example of how to action this in shell:
+
+$ mv file_name ../my_file new_file_name
